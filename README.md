@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on AI assisted Nutritional recommendation system<br>👯 I’m looking to collaborate sustainable AI projects<br>🌱 I’m currently learning LLM tools<br>⚡ Fun fact : I write poetry and create memes<br>
+#  About Me:
+I am software engineer at TCS<br> I’m currently learning LLM tools<br>⚡ Fun fact : I write poetry and create memes<br>
 
 
 ## 🌐 Socials:
